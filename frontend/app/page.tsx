@@ -56,7 +56,7 @@ export default function Home() {
         <div className={`space-y-3 sm:space-y-4 transition-all duration-700 delay-600 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           {/* Telegram Button */}
           <a
-            href="#"
+            href="https://t.me/+NPh2aUyXHsMzOTJl"
             className="flex items-center justify-center gap-2 sm:gap-3 w-full bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-600 hover:to-blue-700 text-white font-bold py-3 sm:py-4 px-4 sm:px-6 rounded-full transition-all duration-300 transform hover:scale-105 active:scale-95 shadow-lg hover:shadow-cyan-500/50 hover:shadow-2xl group relative overflow-hidden"
           >
             {/* Shine effect */}
